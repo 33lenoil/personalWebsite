@@ -4,12 +4,13 @@ import "./styles/contact.css";
 
 export default function Contact() {
     return (
-        <div>
-            <header>
-            <Nav/>
-            </header>
-            <h1>Contact Me</h1>
+        <div id="main">
+        <Nav />
+        <div id="content">
+            <h1>Contact me</h1>
+            <p>lionelhu33@gmail.com</p>
         </div>
+    </div>
 
     )
 }
