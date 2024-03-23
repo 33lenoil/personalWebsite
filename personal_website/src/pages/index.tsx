@@ -2,7 +2,7 @@ import React from 'react';
 import Nav from "../components/nav";
 import "./styles/index.css";
 
-export default function Index() {
+const Index: React.FC = () => {
     return (
         <div id="main">
             <Nav />
@@ -15,3 +15,5 @@ export default function Index() {
         </div>
     )
 }
+
+export default Index;

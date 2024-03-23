@@ -8,6 +8,7 @@ import {
 import Index from './pages/index';
 import Photography from './pages/photography';
 import Contact from './pages/contact';
+import Album from './pages/album';
 
 export default function App() {
     return (
@@ -17,6 +18,7 @@ export default function App() {
                 <Route path="/about" element={<Index />} />
                 <Route path="/photography" element={<Photography />} />
                 <Route path="/contact" element={<Contact />} />
+                <Route path="/album/:albumId" element={<Album />} />
             </Routes>
         </Router>
     )

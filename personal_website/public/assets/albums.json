@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Balcony",
+        "description": "From my balcony when I lived in Houston: my very first serious trial with photography.",
+        "path": "../../public/assets/photos/balcony",
+        "thumbnail_url": "../../public/assets/photos/balcony/DSCF0060.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Canada",
+        "description": "Driving along the Trans-Canada Highway from Quebec to Ontario in a Mitsubishi.",
+        "path": "../../public/assets/photos/canada",
+        "thumbnail_url": "../../public/assets/photos/canada/DSCF0010.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Guangzhou",
+        "description": "羊城记忆。",
+        "path": "../../public/assets/photos/guangzhou",
+        "thumbnail_url": "../../public/assets/photos/guangzhou/DSCF0539.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Nemours",
+        "description": "The Nemours Estate in Wilmington DE.",
+        "path": "../../public/assets/photos/nemours",
+        "thumbnail_url": "../../public/assets/photos/nemours/DSCF0477.jpg"
+    },
+    {
+        "id": 5,
+        "name": "The Jersey Shore",
+        "description": "Driving along the Jersey Shore, culminating in the mesmerizing sunset at Sunset Beach in Cape May.",
+        "path": "../../public/assets/photos/nj",
+        "thumbnail_url": "../../public/assets/photos/nj/DSCF5673.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Peru",
+        "description": "From the ocean, through the Amazon, to the Andes.",
+        "path": "../../public/assets/photos/peru",
+        "thumbnail_url": "../../public/assets/photos/peru/DSCF6033.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Puerto Rico",
+        "description": "Islands, mountains, the shining sacred lake, and the Rum.",
+        "path": "../../public/assets/photos/puerto_rico",
+        "thumbnail_url": "../../public/assets/photos/puerto_rico/DSCF0001.jpg"
+    },
+    {
+        "id": 8,
+        "name": "青甘大环线",
+        "description": "This is where cultures converge and flourish. Here, time feels ancient.",
+        "path": "../../public/assets/photos/qinggan",
+        "thumbnail_url": "../../public/assets/photos/qinggan/DSCF0646.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Southeast Roadtrip",
+        "description": "Six states in five days: THE roadtrip.",
+        "path": "../../public/assets/photos/southeast",
+        "thumbnail_url": "../../public/assets/photos/southeast/DSCF5909.jpg"
+    }
+]
